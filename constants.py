@@ -4,4 +4,6 @@ SCREEN_HEIGHT : int = 720
 
 # Player
 PLAYER_RADIUS : int = 20
+PLAYER_TURN_SPEED : int = 300
+PLAYER_SPEED : int = 200
 LINE_WIDTH : int = 2
